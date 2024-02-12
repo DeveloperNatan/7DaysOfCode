@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>7 DAYS OF CODE</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Honk&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <form id="formulario">
+        <h3>Aniversários do Ano de 2024</h3>
+        <label for="nome">Nome</label>
+        
+        <input class="date" type="text" maxlength="120" minlength="3" id="nome" />
+        
+        <label for="data">Data de Nascimento</label>
+        
+        <input class="date" type="date" id="data" />
+        
+        <button id="res">Salvar</button>
+
+        
+
+        <table id="tabela">
+            <thead>
+                <tr>
+                    <th>Nome:</th>
+                    <th>Data de Nascimento:</th> 
+                </tr>
+            </thead>
+            <td class="lista" id="nome"></td>
+            <td class="listaa" id="data"></td>
+        </table>
+    </form>
+
+    <script src="index.js">
+    </script>
+</body>
+
+</html>
