@@ -1,2 +1,1 @@
-Este codigo que eu fiz não e nem um pouco agradavel, porem irei colocar no meu reporitorio para ver minha evolução daqui um tempo. ele tem varios erros e ja tentei solucionar,
-mas não consegui, da mesma forma que tambem não sei usar arquivos .md e estou aprendendo.
+Este código que eu fiz não é nem um pouco agradável, porém irei colocá-lo no meu repositório para ver minha evolução daqui a um tempo. Ele tem vários erros e já tentei solucioná-los, mas não consegui, da mesma forma que também não sei usar arquivos .md e estou aprendendo.
