@@ -1,1 +1,1 @@
-Este código que eu fiz não é nem um pouco agradável, porém irei colocá-lo no meu repositório para ver minha evolução daqui a um tempo. Ele tem vários erros e já tentei solucioná-los, mas não consegui, da mesma forma que também não sei usar arquivos .md e estou aprendendo.
+Primeiro crud completo usando LocalStorage
